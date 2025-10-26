@@ -4,6 +4,11 @@ CHANGES
 master (unreleased)
 -------------------
 
+0.7 (2025.10.26)
+----------------
+
+* Support Django 2.1 through 2.2, Python 3.7
+
 0.6 (2019.05.10)
 ----------------
 
